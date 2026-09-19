@@ -1,8 +1,8 @@
 ﻿# IAI600 - Introduction to AI and Machine Learning
 
-Lab work for the MSc in AI and Automation, University West, Trollhattan, Sweden.
+Lab work for the MSc in AI and Automation, University West, Trollhättan, Sweden.
 
-Course text: Geron, *Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow* (3rd ed.)
+Course text: Géron, *Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow* (3rd ed.)
 
 ## Labs
 

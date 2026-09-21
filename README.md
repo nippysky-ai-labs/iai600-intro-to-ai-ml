@@ -8,7 +8,7 @@ Course text: Géron, *Hands-On Machine Learning with Scikit-Learn, Keras and Ten
 
 | Lab | Topic | Status |
 |-----|-------|--------|
-| 01  | End-to-end ML project - EDA, preprocessing, pipelines, cross-validation | In progress |
+| [01](lab01/lab01.ipynb) | Data exploration, stratified sampling, feature engineering, preprocessing pipeline | Complete |
 
 ## Setup
 

@@ -10,3 +10,7 @@ __pycache__/
 # OS
 Thumbs.db
 desktop.ini
+
+# Lab 6 outputs (TensorBoard logs, saved Keras models)
+my_logs/
+*.keras
